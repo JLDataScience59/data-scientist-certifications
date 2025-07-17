@@ -49,12 +49,12 @@ L’objectif de ce projet est de développer un modèle capable de détecter une
 
 | Certification                                         | Lien                                                                                             | Date d’obtention   |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|
-| Advanced Classification with scikit-learn             | [📄 Voir le certificat](./certifications/Advanced Classification with scikit-learn.pdf)          | 5 juin 2025        |
-| Bash and Linux                                        | [📄 Voir le certificat](./certifications/Bash and Linux.pdf)                                     | 22 mai 2025        |
-| Classification with scikit-learn                      | [📄 Voir le certificat](./certifications/Classification with scikit-learn.pdf)                   | 28 mai 2025        |
-| Clustering with scikit-learn                          | [📄 Voir le certificat](./certifications/Clustering with scikit-learn.pdf)                       | 2 juin 2025        |
-| Computer Vision with OpenCV                           | [📄 Voir le certificat](./certifications/Computer Vision with OpenCV.pdf)                        | 5 juin 2025        |
-| Convolutional Neural Networks with Keras              | [📄 Voir le certificat](./certifications/Convolutional Neural Networks with Keras.pdf)           | 24 juin 2025       |
+| Advanced Classification with scikit-learn             | [📄 Voir le certificat](./certifications/Advanced_Classification_with_scikit-learn.pdf)          | 5 juin 2025        |
+| Bash and Linux                                        | [📄 Voir le certificat](./certifications/Bash_and_Linux.pdf)                                     | 22 mai 2025        |
+| Classification with scikit-learn                      | [📄 Voir le certificat](./certifications/Classification_with_scikit-learn.pdf)                   | 28 mai 2025        |
+| Clustering with scikit-learn                          | [📄 Voir le certificat](./certifications/Clustering_with_scikit-learn.pdf)                       | 2 juin 2025        |
+| Computer Vision with OpenCV                           | [📄 Voir le certificat](./certifications/Computer_Vision_with_OpenCV.pdf)                        | 5 juin 2025        |
+| Convolutional Neural Networks with Keras              | [📄 Voir le certificat](./certifications/Convolutional_Neural_Networks_with_Keras.pdf)           | 24 juin 2025       |
 
 _Tous les certificats sont disponibles dans le dossier [`certifications/`](./certifications)._
 
@@ -62,7 +62,7 @@ _Tous les certificats sont disponibles dans le dossier [`certifications/`](./cer
 
 Tu peux me retrouver ici :
 - GitHub : [github.com/mon-profil](https://github.com/JLDataScience59)
-- LinkedIn : [linkedin.com/in/mon-profil](www.linkedin.com/in/jérémy-lesot-b34242113)
+- LinkedIn : [linkedin.com/in/mon-profil](https://www.linkedin.com/in/jérémy-lesot-b34242113/)
 
 ---
 
