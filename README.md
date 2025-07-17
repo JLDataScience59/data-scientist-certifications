@@ -55,8 +55,9 @@ L’objectif de ce projet est de développer un modèle capable de détecter une
 | Clustering with scikit-learn                          | [📄 Voir le certificat](./certifications/Clustering_with_scikit-learn.pdf)                       | 2 juin 2025        |
 | Computer Vision with OpenCV                           | [📄 Voir le certificat](./certifications/Computer_Vision_with_OpenCV.pdf)                        | 5 juin 2025        |
 | Convolutional Neural Networks with Keras              | [📄 Voir le certificat](./certifications/Convolutional_Neural_Networks_with_Keras.pdf)           | 24 juin 2025       |
+| ...                                                   | ...                                                                                               | ...                |
 
-_Tous les certificats sont disponibles dans le dossier [`certifications/`](./certifications)._
+_**Tous les certificats sont disponibles dans le dossier** [`certifications/`](./certifications)._
 
 ## 📬 Contact
 
