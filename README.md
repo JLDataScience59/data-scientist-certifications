@@ -6,7 +6,7 @@ Bienvenue sur mon dépôt GitHub dédié à ma formation en Data Science. Ce rep
 
 - **Organisme** : [DataScientest](https://datascientest.com/)
 - **Partenaire académique** : École des Mines Paris – PSL (Executive Education)
-- **Certification visée** : Bloc 2 de la certification RNCP n°38587 – Expert en ingénierie de l’IA [certification](https://www.francecompetences.fr/recherche/rncp/38587/)
+- **Certification visée** : Bloc 2 de la [certification RNCP n°38587 – Expert en ingénierie de l’IA](https://www.francecompetences.fr/recherche/rncp/38587/)
 - **Durée** : 400 heures (format bootcamp : 3 mois)
 - **Langages principaux** : Python, SQL
 - **Reconnaissance** : Formation certifiante niveau 7 (Bac+5)
