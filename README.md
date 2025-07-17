@@ -39,8 +39,8 @@ Bienvenue sur mon dépôt GitHub dédié à ma formation en Data Science. Ce rep
 
 ## 🧪 Projet fil rouge
 
-Projet professionnel de fin de parcours de **120 heures**, avec encadrement mentor. Ce projet consiste à résoudre un cas d’usage réel en data science (machine learning ou deep learning), incluant traitement de données, modélisation, évaluation et déploiement.
-Mon projet est le suivant : **détection d'anomalies dans des pièces industrielles**. 
+Projet professionnel de fin de parcours de **120 heures**, avec encadrement mentor. Ce projet consiste à résoudre un cas d’usage réel en data science (machine learning ou deep learning), incluant traitement de données, modélisation, évaluation et déploiement.  
+Mon projet est le suivant : **détection d'anomalies dans des pièces industrielles**.   
 L’objectif de ce projet est de développer un modèle capable de détecter une anomalie sur une pièce industrielle à l’aide d’une image. Pour cela, il est possible d’utiliser un réseau de neurones convolutif (CNN) ou toute autre architecture adaptée à ce type de problématique.
 
 ## 📜 Certifications obtenues
@@ -49,7 +49,7 @@ L’objectif de ce projet est de développer un modèle capable de détecter une
 
 | Certification                                         | Lien                                                                                             | Date d’obtention   |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|
-| Advanced Classification with scikit-learn             | [📄 Voir le certificat](./certifications/dAdvanced Classification with scikit-learn.pdf)         | 5 juin 2025        |
+| Advanced Classification with scikit-learn             | [📄 Voir le certificat](./certifications/Advanced Classification with scikit-learn.pdf)          | 5 juin 2025        |
 | Bash and Linux                                        | [📄 Voir le certificat](./certifications/Bash and Linux.pdf)                                     | 22 mai 2025        |
 | Classification with scikit-learn                      | [📄 Voir le certificat](./certifications/Classification with scikit-learn.pdf)                   | 28 mai 2025        |
 | Clustering with scikit-learn                          | [📄 Voir le certificat](./certifications/Clustering with scikit-learn.pdf)                       | 2 juin 2025        |
@@ -62,7 +62,7 @@ _Tous les certificats sont disponibles dans le dossier [`certifications/`](./cer
 
 Tu peux me retrouver ici :
 - GitHub : [github.com/mon-profil](https://github.com/JLDataScience59)
-- LinkedIn : [linkedin.com/in/mon-profil](https://linkedin.com/in/mon-profil)
+- LinkedIn : [linkedin.com/in/mon-profil](www.linkedin.com/in/jérémy-lesot-b34242113)
 
 ---
 
