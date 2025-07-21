@@ -43,6 +43,8 @@ Projet professionnel de fin de parcours de **120 heures**, avec encadrement ment
 Mon projet est le suivant : **détection d'anomalies dans des pièces industrielles**.   
 L’objectif de ce projet est de développer un modèle capable de détecter une anomalie sur une pièce industrielle à l’aide d’une image. Pour cela, il est possible d’utiliser un réseau de neurones convolutif (CNN) ou toute autre architecture adaptée à ce type de problématique.
 
+**Lien vers l'appli** : [anomaly-detection](https://anomaly-detection-patchcore.streamlit.app/)
+
 ## 📜 Certifications obtenues
 
 👉 Voir le dossier [`certifications/`](./certifications)
